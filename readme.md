@@ -1,4 +1,4 @@
- ![wechat](https://img.shields.io/badge/wechat-hunlongyu-666666?style=for-the-badge&logo=wechat&logoColor=ffffff&labelColor=7BB32E) ![Gmail](https://img.shields.io/badge/Gmail-hunlongyu@gmail.com-666666?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=D14836&link=www.baidu.com)
+ ![wechat](https://img.shields.io/badge/wechat-hunlongyu-666666?style=for-the-badge&logo=wechat&logoColor=ffffff&labelColor=7BB32E) <a href="mailto:hunlongu@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-hunlongyu@gmail.com-666666?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=D14836)</a>
 
 🍕 I'm Hunlongyu
 
