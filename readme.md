@@ -5,7 +5,9 @@
 * 前端开发一枚
 * 热爱编程, 拥抱开源
 * 热衷跨平台开发 ( Run JavaScript Everywhere )
-* 寻求合肥地区的前端工作, 微信联系: hunlongyu
+
+* 寻求合肥地区的前端职位, 微信联系: hunlongyu
+
 
  ![chrome](https://img.shields.io/badge/-chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=ffffff) ![IE](https://img.shields.io/badge/IE-0076D6?style=for-the-badge&logo=internet-explorer&logoColor=ffffff)
 
