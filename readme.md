@@ -6,7 +6,7 @@
 * 热爱编程, 拥抱开源
 * 热衷跨平台开发 ( Run JavaScript Everywhere )
 
-* 我们公司(合肥国仪量子技术有限公司)长期招 C++ 。在合肥或者想来合肥发展的可以联系我呀。
+* 我们公司(合肥国仪量子技术有限公司)长期招 C++ ，在合肥或者想来合肥发展的可以联系我呀。
 
 
  ![chrome](https://img.shields.io/badge/-chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=ffffff) ![IE](https://img.shields.io/badge/IE-0076D6?style=for-the-badge&logo=internet-explorer&logoColor=ffffff)
