@@ -2,24 +2,33 @@
 
 ## 🍕 I'm Hunlongyu
 
-* 前端开发一枚
+* 全栈开发一枚
 * 热爱编程, 拥抱开源
-* 热衷跨平台开发 ( Run JavaScript Everywhere )
+* 热衷跨平台开发
+* 热衷桌面端开发
 
 
- ![chrome](https://img.shields.io/badge/-chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=ffffff) ![IE](https://img.shields.io/badge/IE-0076D6?style=for-the-badge&logo=internet-explorer&logoColor=ffffff)
-
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=ffffff) ![Apple](https://img.shields.io/badge/-Apple-999999?style=for-the-badge&logo=Apple&logoColor=ffffff) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=222222) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=222222) ![IOS](https://img.shields.io/badge/-IOS-000000?style=for-the-badge&logo=IOS&logoColor=ffffff)
+ ![chrome](https://img.shields.io/badge/-chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=ffffff)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=ffffff) ![Apple](https://img.shields.io/badge/-Apple-999999?style=for-the-badge&logo=Apple&logoColor=ffffff) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=222222) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=222222)
 
 ### 🍔 技术栈
 
-![html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=ffffff) ![css3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) ![sass](https://img.shields.io/badge/sass-CC6699?logo=sass&logoColor=ffffff&style=for-the-badge) ![javascript](https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=222222&style=for-the-badge) ![typescript](https://img.shields.io/badge/typescript-007ACC?logo=typescript&logoColor=ffffff&style=for-the-badge) ![rust](https://img.shields.io/badge/rust-a72145?logo=rust&logoColor=f46623&style=for-the-badge) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-a72145?logo=rust&logoColor=f46623&style=for-the-badge) 
 
-![vuejs](https://img.shields.io/badge/vue.js-35495e.svg?&style=for-the-badge&logo=vue.js) ![electron](https://img.shields.io/badge/electron-47848F.svg?&style=for-the-badge&logo=electron&logoColor=ffffff) ![nodejs](https://img.shields.io/badge/node.js-339933.svg?&style=for-the-badge&logo=node.js&logoColor=ffffff)
+![sass](https://img.shields.io/badge/sass-CC6699?logo=sass&logoColor=ffffff&style=for-the-badge)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
-![npm](https://img.shields.io/badge/npm-CB3837.svg?&style=for-the-badge&logo=npm&logoColor=ffffff) ![yarn](https://img.shields.io/badge/yarn-2C8EBB.svg?&style=for-the-badge&logo=yarn&logoColor=ffffff) ![webpack](https://img.shields.io/badge/webpack-8DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=ffffff) 
 
-![vscode](https://img.shields.io/badge/vscode-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=ffffff) ![sublime](https://img.shields.io/badge/sublime-FF9800.svg?&style=for-the-badge&logo=sublime-text&logoColor=222222) 
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 
 <!-- ### Feature
 
