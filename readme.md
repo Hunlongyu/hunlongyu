@@ -28,10 +28,6 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 
-<h4 align="center">访客数 :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{Hunlongyu}/count.svg" alt="hunlongyu :: Visitor's Count" /></p>
-
 <img width=910 src="https://github-profile-trophy.vercel.app/?username=hunlongyu&column=8&no-frame=true"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hunlongyu)
